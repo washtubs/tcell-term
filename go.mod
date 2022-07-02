@@ -1,4 +1,4 @@
-module git.sr.ht/~ghost08/tcell-term
+module github.com/washtubs/tcell-term
 
 go 1.17
 
