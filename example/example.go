@@ -10,8 +10,8 @@ import (
 	"os/exec"
 	"time"
 
-	tcellterm "git.sr.ht/~ghost08/tcell-term"
 	"github.com/gdamore/tcell/v2"
+	tcellterm "github.com/washtubs/tcell-term"
 )
 
 var red = int32(rand.Int() % 256)

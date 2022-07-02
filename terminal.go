@@ -6,8 +6,8 @@ import (
 	"os"
 	"os/exec"
 
-	"git.sr.ht/~ghost08/tcell-term/termutil"
 	"github.com/gdamore/tcell/v2"
+	"github.com/washtubs/tcell-term/termutil"
 )
 
 type Terminal struct {
